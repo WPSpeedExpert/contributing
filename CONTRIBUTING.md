@@ -103,7 +103,7 @@ Every file must include the following header, with an incremented version after 
 For a login branding file:
 ```php
 /**
- * File: login-branding.php
+ * File: inc/login-branding.php
  * Version: 1.0.18
  * Description: Adds custom branding to the WordPress login page.
  */
