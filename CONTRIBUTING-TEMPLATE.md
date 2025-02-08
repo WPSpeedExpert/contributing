@@ -4,7 +4,7 @@ Thank you for your interest in contributing to this project! We maintain a centr
 
 ## Central Contribution Guidelines
 
-Please refer to the central [CONTRIBUTING.md](https://github.com/WPSpeedExpert/contributing) file for detailed information on:
+Please refer to the central [CONTRIBUTING.md](https://github.com/WPSpeedExpert/contributing/blob/main/CONTRIBUTING.md) file for detailed information on:
 - Branching and Git workflow
 - Commit message standards
 - Coding standards
